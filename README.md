@@ -22,7 +22,7 @@
 
 <h3>📊 Estatísticas do GitHub</h3>
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=[seu nome de usuário]&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=developerfred&show_icons=true&theme=radical)
 
 <h3>📫 How to contact me</h3>
 
@@ -30,5 +30,5 @@
 - [E-mail](mailto:codingsh@pm.me)
 
 
-![codingsh github stats](https://github-readme-stats.vercel.app/api?username=developerfred)
+<!-- ![codingsh github stats](https://github-readme-stats.vercel.app/api?username=developerfred) -->
 
