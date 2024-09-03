@@ -1,34 +1,76 @@
-<p align="center">
-  <br><br>
-  <h2>🚀 Hi! A builder astronaut, shall we build together? 🚀</h2>
-  <br>
-  <i>Sou um desenvolvedor altamente qualificado com experiência em solucionar problemas do universo. Estou sempre buscando novos desafios e oportunidades para criar soluções.</i>
-  <br><br>
-  <a href="https://bit.ly/codingsh">🌟 Support my work 🌟</a>
-  <br><br>
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsteemitimages.com%2F0x0%2Fhttps%3A%2F%2Fres.cloudinary.com%2Fhpiynhbhq%2Fimage%2Fupload%2Fv1517631979%2Fygp4mfqu3l5nl4bucajl.gif&f=1&nofb=1" width="240px" align="center">
-  <br>
-</p>
+# 🚀 Greetings, Fellow Innovator! Shall We Forge the Future? 🚀
 
-<h3>🔧 Technologies and tools</h3>
+<div align="center">
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsteemitimages.com%2F0x0%2Fhttps%3A%2F%2Fres.cloudinary.com%2Fhpiynhbhq%2Fimage%2Fupload%2Fv1517631979%2Fygp4mfqu3l5nl4bucajl.gif&f=1&nofb=1" width="240px">
 
-- Blockchain
-- ethers 
-- Solidity 
-- Rust 
-- Web3 
-- Typescript
+  *Embarking on a journey through the digital cosmos, I am a seasoned developer with a penchant for unraveling the enigmas of the universe. My quest? To architect solutions that transcend the ordinary and redefine the possible.*
 
+  [🌟 Fuel My Cosmic Endeavors 🌟](https://bit.ly/codingsh)
+</div>
 
-<h3>📊 Estatísticas do GitHub</h3>
+## 🔧 Arsenal of Innovation
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=developerfred&show_icons=true&theme=radical)
+Behold the cutting-edge technologies at my command:
 
-<h3>📫 How to contact me</h3>
+### Blockchain & Web3
+- Ethereum & EVM-compatible chains
+- Polkadot & Substrate
+- Layer 2 solutions (Optimism, Arbitrum)
+- IPFS & Filecoin
 
-- [Twitter](https://twitter.com/codingsh)
-- [E-mail](mailto:codingsh@pm.me)
+### Smart Contract Development
+- Solidity (Advanced patterns & Gas optimization)
+- Vyper
+- Rust for Substrate
+- Foundry (Testing & Deployment)
+- Hardhat & Truffle
 
+### Frontend Web3 Integration
+- viem.sh
+- ethers.js
+- web3.js
+- @polkadot/api
 
-<!-- ![codingsh github stats](https://github-readme-stats.vercel.app/api?username=developerfred) -->
+### Languages & Frameworks
+- TypeScript
+- Rust
+- Next.js & React
+- Node.js
 
+### Development Tools
+- Git & GitHub Actions
+- Docker
+- CircleCI
+- Grafana & Prometheus
+
+### DeFi Protocols
+- Uniswap v3
+- Aave
+- Compound
+
+### Cryptography
+- zk-SNARKs
+- Threshold Signatures
+
+## 🌌 Cosmic Achievements
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=developerfred&show_icons=true&theme=radical)
+
+## 🛰️ Recent Explorations
+
+- Implemented a cross-chain bridge using Polkadot's XCMP
+- Developed a gas-optimized AMM using Vyper and Foundry
+- Created a decentralized identity solution with zk-SNARKs
+- Architected a layer 2 scaling solution with Optimistic Rollups
+
+## 📡 Establish Contact
+
+- [Twitter: Transmit on the Cosmic Web](https://twitter.com/codingsh)
+- [Email: Send an Intergalactic Message](mailto:codingsh@pm.me)
+- [GitHub: Explore My Code Repositories](https://github.com/developerfred)
+
+---
+
+<div align="center">
+  <i>"The cosmos is within us. We are made of star-stuff. We are a way for the universe to know itself." - Carl Sagan</i>
+</div>
