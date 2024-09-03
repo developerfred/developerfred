@@ -5,7 +5,7 @@
 
   *Embarking on a journey through the digital cosmos, I am a seasoned developer with a penchant for unraveling the enigmas of the universe. My quest? To architect solutions that transcend the ordinary and redefine the possible.*
 
-  [🌟 Fuel My Cosmic Endeavors 🌟](https://bit.ly/codingsh)
+  [🌟 Fuel My Cosmic Endeavors 🌟]([codingsh.eth](https://etherscan.io/address/0xd1a8Dd23e356B9fAE27dF5DeF9ea025A602EC81e))
 </div>
 
 ## 🔧 Arsenal of Innovation
