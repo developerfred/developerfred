@@ -1,7 +1,10 @@
-# 🚀 Greetings, Fellow Innovator! Shall We Forge the Future? 🚀
+# 🚀 GM! Build Together? 🚀
+
+<a href="https://www.twitter.com/codingsh"><img src="https://img.shields.io/twitter/follow/codingsh?style=social" /></a>
+<a href="https://www.warpcast.com/codingsh"><img src="https://img.shields.io/badge/farcaster-8A2BE2" /></a>
 
 <div align="center">
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsteemitimages.com%2F0x0%2Fhttps%3A%2F%2Fres.cloudinary.com%2Fhpiynhbhq%2Fimage%2Fupload%2Fv1517631979%2Fygp4mfqu3l5nl4bucajl.gif&f=1&nofb=1" width="240px">
+  <img src="https://www.reactiongifs.com/r/prthrd.gif" width="240px">
 
   *Embarking on a journey through the digital cosmos, I am a seasoned developer with a penchant for unraveling the enigmas of the universe. My quest? To architect solutions that transcend the ordinary and redefine the possible.*
 
