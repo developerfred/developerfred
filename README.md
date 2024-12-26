@@ -11,6 +11,13 @@
   [🌟 Fuel My Cosmic Endeavors 🌟]([codingsh.eth](https://etherscan.io/address/0xd1a8Dd23e356B9fAE27dF5DeF9ea025A602EC81e))
 </div>
 
+
+## 🏆 Awards & Recognition
+
+- 1nd [Admanager](https://x.com/reown_/status/1851297801059336372)[code](https://github.com/developerfred/admanager-core)
+- 2nd [Devfunding)(https://x.com/reown_/status/1856992479016550846) [code](https://github.com/developerfred/devfunding)
+- Honorable winner [AnonAgents](https://x.com/ZKVProtocol/status/1872349169790427171)[code](https://github.com/developerfred/AnonAgents)
+
 ## 🔧 Arsenal of Innovation
 
 Behold the cutting-edge technologies at my command:
@@ -18,7 +25,7 @@ Behold the cutting-edge technologies at my command:
 ### Blockchain & Web3
 - Ethereum & EVM-compatible chains
 - Polkadot & Substrate
-- Layer 2 solutions (Optimism, Arbitrum)
+- Layer 2 solutions (Base, Optimism, Arbitrum)
 - IPFS & Filecoin
 
 ### Smart Contract Development
@@ -35,6 +42,7 @@ Behold the cutting-edge technologies at my command:
 - @polkadot/api
 
 ### Languages & Frameworks
+- Python
 - TypeScript
 - Rust
 - Next.js & React
