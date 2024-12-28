@@ -14,9 +14,9 @@
 
 ## 🏆 Awards & Recognition
 
-- 1nd [Admanager](https://x.com/reown_/status/1851297801059336372)[code](https://github.com/developerfred/admanager-core)
-- 2nd [Devfunding)(https://x.com/reown_/status/1856992479016550846) [code](https://github.com/developerfred/devfunding)
-- Honorable winner [AnonAgents](https://x.com/ZKVProtocol/status/1872349169790427171)[code](https://github.com/developerfred/AnonAgents)
+- 1nd [Admanager](https://x.com/reown_/status/1851297801059336372) - [code](https://github.com/developerfred/admanager-core)
+- 2nd [Devfunding](https://x.com/reown_/status/1856992479016550846) - [code](https://github.com/developerfred/devfunding)
+- Honorable winner [AnonAgents](https://x.com/ZKVProtocol/status/1872349169790427171) - [code](https://github.com/developerfred/AnonAgents)
 
 ## 🔧 Arsenal of Innovation
 
