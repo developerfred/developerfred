@@ -14,7 +14,12 @@
 
 ## 🏆 Awards & Recognition
 
+### **1nd**
 - 1nd [Admanager](https://x.com/reown_/status/1851297801059336372) - [code](https://github.com/developerfred/admanager-core)
+- 1nd [Talent Protocol Chrome Extension](https://x.com/codingsh/status/1889834165006483847) - [code](https://github.com/aipop-fun/builder-score-extension)
+- 1nd [Eliza Plugin Para](https://x.com/get_para/status/1895169340233916911) - [code](https://github.com/aipop-fun/plugin-para)
+
+### **2nd**
 - 2nd [Devfunding](https://x.com/reown_/status/1856992479016550846) - [code](https://github.com/developerfred/devfunding)
 - Honorable winner [AnonAgents](https://x.com/ZKVProtocol/status/1872349169790427171) - [code](https://github.com/developerfred/AnonAgents)
 
