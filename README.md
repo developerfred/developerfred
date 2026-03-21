@@ -1,92 +1,102 @@
-# 🚀 GM! Build Together? 🚀
+# 👋 gm. I'm codingsh.
 
-<a href="https://www.twitter.com/codingsh"><img src="https://img.shields.io/twitter/follow/codingsh?style=social" /></a>
-<a href="https://www.warpcast.com/codingsh"><img src="https://img.shields.io/badge/farcaster-8A2BE2" /></a>
+**White Hat · Bridge Builder · Decentralization Specialist**
+I build AI agents, cross-chain infrastructure, and smart contracts that ship to mainnet.
 
-<div align="center">
-  <img src="https://www.reactiongifs.com/r/prthrd.gif" width="240px">
+`codingsh.eth` · [Twitter](https://twitter.com/codingsh) · [GitHub](https://github.com/developerfred)
 
-  *Embarking on a journey through the digital cosmos, I am a seasoned developer with a penchant for unraveling the enigmas of the universe. My quest? To architect solutions that transcend the ordinary and redefine the possible.*
+---
 
-  [🌟 Fuel My Cosmic Endeavors 🌟]([codingsh.eth](https://etherscan.io/address/0xd1a8Dd23e356B9fAE27dF5DeF9ea025A602EC81e))
-</div>
+## 🧱 What I Do
 
+- **Smart Contracts** · Solidity · Vyper · Rust · Gas optimization · Foundry · Hardhat
+- **AI Agents & Bots** · Eliza · Telegram · Autonomous agents · MetaMask Delegation
+- **EVM Security** · Bytecode analysis · Symbolic execution · Vulnerability detection
+- **Cross-chain Bridges** · Polkadot XCMP · Layer 2 (Base, Optimism, Arbitrum) · sBTC
+- **Frontend Web3** · Next.js · React · viem.sh · ethers.js · TypeScript
 
-## 🏆 Awards & Recognition
+---
 
-### **1nd**
-- 1nd [Admanager](https://x.com/reown_/status/1851297801059336372) - [code](https://github.com/developerfred/admanager-core)
-- 1nd [Talent Protocol Chrome Extension](https://x.com/codingsh/status/1889834165006483847) - [code](https://github.com/aipop-fun/builder-score-extension)
-- 1nd [Eliza Plugin Para](https://x.com/get_para/status/1895169340233916911) - [code](https://github.com/aipop-fun/plugin-para)
+## 🔥 Featured Work
 
-### **2nd**
-- 2nd [Devfunding](https://x.com/reown_/status/1856992479016550846) - [code](https://github.com/developerfred/devfunding)
-- Honorable winner [AnonAgents](https://x.com/ZKVProtocol/status/1872349169790427171) - [code](https://github.com/developerfred/AnonAgents)
+### [solidity-zig-decompiler](https://github.com/developerfred/solidity-zig-decompiler)
+EVM bytecode decompiler built with **Zig**. Symbolic execution, gas analysis, and automated vulnerability detection baked in.
+`Zig` `EVM` `Security`
 
-## 🔧 Arsenal of Innovation
+### [metamask-delegation-agent](https://github.com/developerfred/metamask-delegation-agent)
+AI agent powered by the MetaMask Delegation Framework. Won **Best Use of Delegations** track.
+`Solidity` `AI Agent` `MetaMask`
 
-Behold the cutting-edge technologies at my command:
+### [bitcoin-yield-copilot](https://github.com/developerfred/bitcoin-yield-copilot)
+Autonomous Telegram agent managing Bitcoin yield strategies on **Stacks**.
+`TypeScript` `Stacks` `Bitcoin DeFi`
 
-### Blockchain & Web3
-- Ethereum & EVM-compatible chains
-- Polkadot & Substrate
-- Layer 2 solutions (Base, Optimism, Arbitrum)
-- IPFS & Filecoin
+### [Bend-PVM](https://github.com/developerfred/Bend-PVM)
+High-performance Move bytecode interpreter for EVM chains.
+`Rust` `Move` `VM`
 
-### Smart Contract Development
-- Solidity (Advanced patterns & Gas optimization)
-- Vyper
-- Rust for Substrate
-- Foundry (Testing & Deployment)
-- Hardhat & Truffle
+### [ElixirClaw](https://github.com/developerfred/ElixirClaw)
+Tooling for the Elixir ecosystem. **14+ stars.**
+`Elixir`
 
-### Frontend Web3 Integration
-- viem.sh
-- ethers.js
-- web3.js
-- @polkadot/api
+### [security-search](https://github.com/developerfred/security-search)
+Browser extension blocking scam sites in search results. Firefox, Chrome & Safari.
+`JavaScript` `Security` `Browser Extension`
 
-### Languages & Frameworks
-- Python
-- TypeScript
-- Rust
-- Next.js & React
-- Node.js
+---
 
-### Development Tools
-- Git & GitHub Actions
-- Docker
-- CircleCI
-- Grafana & Prometheus
+## 🏆 Hackathon Wins
 
-### DeFi Protocols
-- Uniswap v3
-- Aave
-- Compound
+| | Project | Track |
+|---|---|---|
+| 🥇 1st | [Admanager](https://github.com/developerfred/admanager-core) | Reown · 2025 |
+| 🥇 1st | [Talent Protocol Chrome Extension](https://github.com/aipop-fun/builder-score-extension) | Talent Protocol · 2025 |
+| 🥇 1st | [Eliza Plugin Para](https://github.com/aipop-fun/plugin-para) | Para · 2025 |
+| 🥈 2nd | [Devfunding](https://github.com/developerfred/devfunding) | Reown · 2025 |
+| 🏅 Honorable | [AnonAgents](https://github.com/developerfred/AnonAgents) | ZKV Protocol · 2025 |
 
-### Cryptography
-- zk-SNARKs
-- Threshold Signatures
+---
 
-## 🌌 Cosmic Achievements
+## ⚡ Tech Stack
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Zig](https://img.shields.io/badge/Zig-F7A41D?style=flat-square&logo=zig&logoColor=white)
+![Elixir](https://img.shields.io/badge/Elixir-6E34A8?style=flat-square&logo=elixir&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Foundry](https://img.shields.io/badge/Foundry-FFCH??style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNGRkNDIj48cGF0aCBkPSJNMTIgMkwyMSAxMkwxMiAyMiIgc3Ryb2tlLXdpZHRoPSIyIi8+PHBhdGggZD0iTTEyIDJMMiAxMkwyMSAxMiIgc3Ryb2tlLXdpZHRoPSIyIi8+PC9zdmc+&logoColor=white)
+![Polkadot](https://img.shields.io/badge/Polkadot-E6007A?style=flat-square&logo=polkadot&logoColor=white)
+
+---
+
+## 💼 Available For
+
+- ✅ Smart contract development & audits
+- ✅ AI agent integrations (Eliza, Telegram, MetaMask)
+- ✅ Cross-chain bridge development
+- ✅ dApp frontend & Web3 integrations
+
+---
+
+## 📊 Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=developerfred&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developerfred&layout=compact&theme=radical)
 
-## 🛰️ Recent Explorations
+---
 
-- Implemented a cross-chain bridge using Polkadot's XCMP
-- Developed a gas-optimized AMM using Vyper and Foundry
-- Created a decentralized identity solution with zk-SNARKs
-- Architected a layer 2 scaling solution with Optimistic Rollups
+## 📫 Contact
 
-## 📡 Establish Contact
-
-- [Twitter: Transmit on the Cosmic Web](https://twitter.com/codingsh)
-- [Email: Send an Intergalactic Message](mailto:codingsh@pm.me)
-- [GitHub: Explore My Code Repositories](https://github.com/developerfred)
+[Twitter / X](https://twitter.com/codingsh) · [Email](mailto:codingsh@pm.me) · [GitHub](https://github.com/developerfred) · [Warpcast](https://warpcast.com/codingsh)
 
 ---
 
 <div align="center">
-  <i>"The cosmos is within us. We are made of star-stuff. We are a way for the universe to know itself." - Carl Sagan</i>
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/codingsh?style=social)](https://twitter.com/codingsh)
+[![GitHub Stars](https://img.shields.io/github/stars/developerfred?style=social)](https://github.com/developerfred)
+[![Hireable](https://img.shields.io/badge/Hireable-Yes-green?style=flat-square)](https://github.com/developerfred)
+
 </div>
